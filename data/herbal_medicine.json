@@ -1,0 +1,24 @@
+{
+  "herbs": [
+    {
+      "text": "Ginger (Zingiber officinale):\n- Primary uses: Nausea relief, digestive aid\n- Properties: Anti-inflammatory, carminative\n- Dosage: 1-4g daily, fresh or dried\n- Contraindications: High doses may interfere with blood thinning medications",
+      "page": 1,
+      "images": []
+    },
+    {
+      "text": "Peppermint (Mentha × piperita):\n- Primary uses: Digestive comfort, IBS symptoms\n- Properties: Antispasmodic, carminative\n- Dosage: 1-2 cups of tea daily\n- Contraindications: Gastric reflux, hiatal hernia",
+      "page": 1,
+      "images": []
+    },
+    {
+      "text": "Echinacea (Echinacea purpurea):\n- Primary uses: Immune system support, cold/flu prevention\n- Properties: Immunostimulant, anti-inflammatory\n- Dosage: 300mg 3x daily\n- Contraindications: Autoimmune conditions",
+      "page": 2,
+      "images": []
+    },
+    {
+      "text": "Chamomile (Matricaria chamomilla):\n- Primary uses: Sleep aid, anxiety relief\n- Properties: Mild sedative, anti-inflammatory\n- Dosage: 1-2 cups of tea before bedtime\n- Contraindications: Allergies to asteraceae family",
+      "page": 3,
+      "images": []
+    }
+  ]
+}

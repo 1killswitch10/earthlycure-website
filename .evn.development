@@ -1,0 +1,20 @@
+# Database Configuration
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=Keyon_4417498
+DB_NAME=earthlycure
+
+# JWT Configuration
+JWT_SECRET=your-development-secret-key
+
+# Server Configuration
+PORT=8080
+NODE_ENV=development
+CORS_ORIGIN=http://localhost:3000
+
+# Hugging Face API Key
+HUGGINGFACE_API_KEY=your-huggingface-api-key
+
+# Frontend Configuration
+VITE_API_URL=http://localhost:8080
